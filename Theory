@@ -1,0 +1,48 @@
+Testing : Manual , Automation
+
+Cypress JS => Automation Testing Tool
+    To test Frontend Web Application
+
+---Frontend : Part of an Application that runs on the browser.
+
+Desktop Application and mobile application can not be tested using cypress.
+
+Cypress js does not use selenium internally.
+
+Cypress => Javascript / Typescript
+
+Cypress is partially Open Source.
+
+testrunner => Free
+dashboard => Paid
+
+Environment => node js (npm , npx)
+
+Developers , QA testers uses Cypress.
+
+Cypress supports 4 types of testing :
+1) End-to-End Testing : (Login => Username, Password, signIn)
+
+2) Integration Testing : ((username=>8 chars, password=>alpha numeric + special char)if correct=>> signIn)
+
+3) Unit Testing : (Checks Single unit),(Username input box--> (color=>grey, background-color=>red, length=>8))
+
+4) API Testing : (Communication between Frontend & Backend)
+
+
+Selenium => Web applications , completely free
+    ---Supporting Languages :  Java, Javascript, Python, C#, Ruby...
+    ---Supporting Browsers : all the major browsers(Chrome, Firefox, IE, Opera, Safari).
+    ---Performance is slow than cypress
+
+    ---Cypress : Web app and API testing.
+        --Limited browser support.
+        --Framework : Mocha.js
+        --Runs inside browser hence it is fast.
+
+
+Environment Setup :
+    Install nodejs , vs code
+    
+
+
